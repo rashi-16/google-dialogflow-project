@@ -1,0 +1,38 @@
+{
+  "id": "cc26ac24-cfbe-4eb2-85b7-73bc6a4a3923",
+  "name": "Greetuser",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "greeting",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": [
+            "Hi, welcome to Rashi\u0027s horoscope app :)",
+            "Welcome, this is Rashi\u0027s horoscope app :)"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545378608,
+  "fallbackIntent": false,
+  "events": []
+}

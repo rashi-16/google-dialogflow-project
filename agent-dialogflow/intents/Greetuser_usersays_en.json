@@ -1,0 +1,122 @@
+[
+  {
+    "id": "876b7bef-c2e1-4160-89d4-65ddd885791b",
+    "data": [
+      {
+        "text": "Good morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545203611
+  },
+  {
+    "id": "40991de9-4b36-4a87-8a19-0e907d77cf9b",
+    "data": [
+      {
+        "text": "Salut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545203611
+  },
+  {
+    "id": "9c5631a0-7b7c-496b-9a53-13ccb127196f",
+    "data": [
+      {
+        "text": "Bonsoir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545203611
+  },
+  {
+    "id": "a85c10a2-b926-4e09-93f0-1eed71cc043f",
+    "data": [
+      {
+        "text": "Hola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545203611
+  },
+  {
+    "id": "ad71ddc6-a731-44be-a8ac-87d0eddacf3a",
+    "data": [
+      {
+        "text": "Heya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545203611
+  },
+  {
+    "id": "0bb6ba26-75e5-4474-a7cd-727b53815133",
+    "data": [
+      {
+        "text": "Halo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545203611
+  },
+  {
+    "id": "bdeaf310-5a70-486f-a8b5-935764f2a9f6",
+    "data": [
+      {
+        "text": "Good evening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545203611
+  },
+  {
+    "id": "ef56b27c-3ce1-47f5-b43a-adb1b2b3eb17",
+    "data": [
+      {
+        "text": "Good afternoon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545203611
+  },
+  {
+    "id": "e0815eb1-8c75-454f-b6b4-9c9ec61caa79",
+    "data": [
+      {
+        "text": "Hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545203611
+  },
+  {
+    "id": "166049e7-eb87-4ef5-963f-2866cba44e32",
+    "data": [
+      {
+        "text": "Hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1545203611
+  }
+]
